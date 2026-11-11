@@ -1,0 +1,181 @@
+﻿item_id,restaurant_id,item_name,category,unit_price,food_cost
+M001,R001,Spicy Wrap 1,Beverage,91,35
+M002,R002,House Rice 2,Combo,573,201
+M003,R003,Chef Dessert 3,Beverage,375,181
+M004,R004,Special Thali 4,Combo,277,129
+M005,R005,Spicy Rice 5,Combo,527,304
+M006,R006,Chef Rice 6,Starter,236,103
+M007,R007,Chef Rice 7,Starter,226,108
+M008,R008,Chef Noodles 8,Starter,473,195
+M009,R009,House Wrap 9,Combo,275,165
+M010,R010,Special Wrap 10,Combo,117,56
+M011,R011,Special Dessert 11,Dessert,488,191
+M012,R012,Signature Noodles 12,Combo,117,45
+M013,R013,Special Dessert 13,Combo,605,213
+M014,R014,Special Noodles 14,Beverage,195,70
+M015,R015,House Meal 15,Beverage,152,79
+M016,R016,Classic Dessert 16,Beverage,225,113
+M017,R017,Special Wrap 17,Starter,421,244
+M018,R018,Spicy Dessert 18,Combo,93,54
+M019,R019,Signature Dessert 19,Dessert,437,172
+M020,R020,Signature Dessert 20,Dessert,523,304
+M021,R021,Special Rice 21,Dessert,232,139
+M022,R022,Classic Burger 22,Combo,344,176
+M023,R023,Classic Thali 23,Beverage,641,287
+M024,R024,Spicy Thali 24,Starter,545,238
+M025,R025,House Dessert 25,Starter,538,276
+M026,R026,Spicy Rice 26,Combo,211,97
+M027,R027,Classic Thali 27,Combo,268,99
+M028,R028,Chef Meal 28,Combo,107,47
+M029,R029,Spicy Burger 29,Dessert,101,40
+M030,R030,Classic Burger 30,Dessert,496,268
+M031,R031,Classic Dessert 31,Beverage,504,220
+M032,R032,Chef Rice 32,Beverage,588,300
+M033,R033,Classic Burger 33,Dessert,161,63
+M034,R034,Signature Paneer 34,Starter,478,190
+M035,R035,Signature Wrap 35,Combo,374,231
+M036,R036,Spicy Noodles 36,Starter,92,33
+M037,R037,Special Meal 37,Starter,646,328
+M038,R038,Chef Thali 38,Combo,161,95
+M039,R039,Spicy Noodles 39,Combo,583,288
+M040,R040,Signature Thali 40,Beverage,438,186
+M041,R041,Spicy Thali 41,Beverage,118,60
+M042,R042,Signature Rice 42,Combo,255,135
+M043,R043,House Meal 43,Starter,558,198
+M044,R044,Signature Noodles 44,Beverage,424,175
+M045,R045,Special Noodles 45,Starter,579,242
+M046,R046,Special Wrap 46,Beverage,432,216
+M047,R047,Special Thali 47,Dessert,312,166
+M048,R048,House Dessert 48,Dessert,496,250
+M049,R049,Signature Rice 49,Main Course,515,317
+M050,R050,Spicy Thali 50,Dessert,325,159
+M051,R051,House Dessert 51,Beverage,97,55
+M052,R052,Spicy Meal 52,Beverage,381,175
+M053,R053,Signature Dessert 53,Main Course,143,84
+M054,R054,Classic Wrap 54,Beverage,311,166
+M055,R055,House Burger 55,Starter,174,106
+M056,R056,Chef Paneer 56,Dessert,190,77
+M057,R057,Chef Noodles 57,Beverage,571,341
+M058,R058,House Paneer 58,Combo,209,100
+M059,R059,Classic Rice 59,Main Course,501,294
+M060,R060,Classic Rice 60,Dessert,302,148
+M061,R001,House Dessert 61,Starter,505,276
+M062,R002,House Burger 62,Main Course,528,266
+M063,R003,Signature Thali 63,Starter,149,89
+M064,R004,Chef Rice 64,Starter,575,325
+M065,R005,Chef Rice 65,Beverage,146,59
+M066,R006,Signature Noodles 66,Beverage,506,180
+M067,R007,House Thali 67,Main Course,638,288
+M068,R008,House Rice 68,Starter,493,291
+M069,R009,Classic Burger 69,Main Course,311,136
+M070,R010,Classic Noodles 70,Dessert,431,218
+M071,R011,Special Dessert 71,Combo,319,163
+M072,R012,Classic Paneer 72,Main Course,614,292
+M073,R013,House Noodles 73,Main Course,200,90
+M074,R014,Classic Burger 74,Dessert,311,120
+M075,R015,Classic Rice 75,Dessert,181,97
+M076,R016,Chef Paneer 76,Main Course,280,170
+M077,R017,Special Wrap 77,Beverage,226,85
+M078,R018,Signature Noodles 78,Starter,512,301
+M079,R019,Spicy Meal 79,Main Course,246,100
+M080,R020,Signature Noodles 80,Combo,194,95
+M081,R021,Chef Burger 81,Dessert,352,148
+M082,R022,House Dessert 82,Starter,115,55
+M083,R023,Classic Rice 83,Starter,627,330
+M084,R024,Classic Wrap 84,Starter,367,139
+M085,R025,House Paneer 85,Beverage,231,99
+M086,R026,Special Thali 86,Starter,518,304
+M087,R027,Special Thali 87,Main Course,595,366
+M088,R028,Signature Thali 88,Main Course,640,389
+M089,R029,Spicy Burger 89,Starter,130,50
+M090,R030,Chef Meal 90,Dessert,261,130
+M091,R031,House Wrap 91,Starter,144,83
+M092,R032,Special Dessert 92,Main Course,435,216
+M093,R033,Classic Meal 93,Combo,183,77
+M094,R034,Chef Noodles 94,Beverage,180,104
+M095,R035,Spicy Wrap 95,Dessert,417,229
+M096,R036,Spicy Noodles 96,Beverage,256,115
+M097,R037,Classic Meal 97,Dessert,317,176
+M098,R038,Classic Meal 98,Combo,523,212
+M099,R039,Special Meal 99,Beverage,617,236
+M100,R040,House Thali 100,Main Course,592,223
+M101,R041,House Wrap 101,Combo,238,138
+M102,R042,Classic Noodles 102,Dessert,191,88
+M103,R043,Classic Thali 103,Beverage,342,142
+M104,R044,Spicy Burger 104,Main Course,488,283
+M105,R045,Spicy Paneer 105,Starter,580,256
+M106,R046,Spicy Rice 106,Dessert,387,161
+M107,R047,Signature Wrap 107,Beverage,227,89
+M108,R048,Classic Burger 108,Starter,616,363
+M109,R049,House Rice 109,Main Course,525,257
+M110,R050,Spicy Meal 110,Dessert,365,180
+M111,R051,Signature Noodles 111,Beverage,390,182
+M112,R052,Classic Noodles 112,Main Course,164,63
+M113,R053,Special Dessert 113,Main Course,623,299
+M114,R054,Spicy Thali 114,Beverage,624,246
+M115,R055,Chef Noodles 115,Starter,400,162
+M116,R056,Signature Rice 116,Beverage,232,83
+M117,R057,Chef Wrap 117,Main Course,157,94
+M118,R058,Spicy Rice 118,Beverage,270,139
+M119,R059,Signature Rice 119,Beverage,350,160
+M120,R060,House Paneer 120,Dessert,388,155
+M121,R001,House Noodles 121,Main Course,644,368
+M122,R002,Special Thali 122,Beverage,505,241
+M123,R003,Spicy Rice 123,Main Course,176,105
+M124,R004,Signature Meal 124,Starter,281,102
+M125,R005,Classic Burger 125,Main Course,282,159
+M126,R006,House Paneer 126,Main Course,439,243
+M127,R007,Special Noodles 127,Dessert,534,217
+M128,R008,Spicy Wrap 128,Main Course,607,284
+M129,R009,Chef Burger 129,Starter,448,157
+M130,R010,Signature Paneer 130,Dessert,646,275
+M131,R011,Classic Paneer 131,Beverage,125,59
+M132,R012,Spicy Meal 132,Main Course,162,63
+M133,R013,Special Meal 133,Starter,444,203
+M134,R014,Classic Dessert 134,Dessert,606,264
+M135,R015,Chef Paneer 135,Beverage,497,236
+M136,R016,Spicy Dessert 136,Main Course,460,235
+M137,R017,Chef Burger 137,Main Course,355,215
+M138,R018,Spicy Thali 138,Beverage,282,112
+M139,R019,Special Dessert 139,Combo,470,272
+M140,R020,Spicy Dessert 140,Beverage,113,53
+M141,R021,Signature Burger 141,Starter,590,326
+M142,R022,Classic Wrap 142,Starter,645,318
+M143,R023,Special Paneer 143,Main Course,460,199
+M144,R024,Chef Meal 144,Main Course,621,279
+M145,R025,Signature Thali 145,Dessert,504,231
+M146,R026,Special Burger 146,Main Course,405,220
+M147,R027,House Meal 147,Dessert,375,223
+M148,R028,Signature Thali 148,Starter,325,171
+M149,R029,Classic Burger 149,Main Course,282,130
+M150,R030,House Paneer 150,Combo,336,129
+M151,R031,Signature Rice 151,Dessert,141,75
+M152,R032,Classic Noodles 152,Combo,457,242
+M153,R033,Classic Meal 153,Dessert,101,44
+M154,R034,Signature Noodles 154,Dessert,201,113
+M155,R035,Chef Thali 155,Starter,572,238
+M156,R036,House Paneer 156,Beverage,464,179
+M157,R037,House Thali 157,Beverage,244,95
+M158,R038,Classic Burger 158,Starter,249,133
+M159,R039,Spicy Rice 159,Starter,600,243
+M160,R040,Classic Noodles 160,Starter,394,213
+M161,R041,House Paneer 161,Dessert,624,321
+M162,R042,Classic Paneer 162,Dessert,233,121
+M163,R043,House Thali 163,Starter,269,165
+M164,R044,Chef Rice 164,Dessert,314,168
+M165,R045,Special Thali 165,Main Course,103,47
+M166,R046,Classic Burger 166,Combo,580,299
+M167,R047,Special Rice 167,Beverage,339,204
+M168,R048,Chef Wrap 168,Starter,568,248
+M169,R049,Classic Thali 169,Combo,395,190
+M170,R050,Special Meal 170,Beverage,444,195
+M171,R051,House Burger 171,Dessert,227,135
+M172,R052,House Rice 172,Main Course,607,351
+M173,R053,Classic Meal 173,Starter,638,352
+M174,R054,Special Noodles 174,Main Course,518,288
+M175,R055,House Paneer 175,Starter,359,170
+M176,R056,Spicy Thali 176,Main Course,225,118
+M177,R057,Classic Rice 177,Main Course,252,106
+M178,R058,Signature Dessert 178,Starter,418,193
+M179,R059,Classic Paneer 179,Starter,213,121
+M180,R060,Classic Dessert 180,Main Course,572,226

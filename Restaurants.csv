@@ -1,0 +1,61 @@
+﻿restaurant_id,restaurant_name,city,area,cuisine,rating,avg_prep_time_min
+R001,Urban Kitchen 1,Bengaluru,Koramangala,Italian,4.5,27
+R002,Royal Bites 2,Chennai,Adyar,North Indian,4.7,22
+R003,Street Kitchen 3,Hyderabad,Madhapur,North Indian,4.4,16
+R004,Royal Bites 4,Pune,Wakad,South Indian,4.9,14
+R005,Royal Express 5,Mumbai,Dadar,Desserts,4.5,29
+R006,Royal House 6,Delhi,Lajpat Nagar,Biryani,3.4,30
+R007,Spice Bites 7,Bengaluru,HSR Layout,Fast Food,4,24
+R008,Green Bites 8,Chennai,Velachery,Fast Food,4.8,20
+R009,Urban Kitchen 9,Hyderabad,Kukatpally,North Indian,4.3,21
+R010,Curry Hub 10,Pune,Wakad,Biryani,4,31
+R011,Spice Express 11,Mumbai,Thane,North Indian,3.6,14
+R012,Street Kitchen 12,Delhi,Lajpat Nagar,Biryani,3.3,25
+R013,Curry Cafe 13,Bengaluru,Whitefield,North Indian,4.6,18
+R014,Spice Express 14,Chennai,Velachery,Biryani,4.5,27
+R015,Urban Bites 15,Hyderabad,Madhapur,Desserts,3.8,13
+R016,Green House 16,Pune,Viman Nagar,Chinese,4.7,35
+R017,Curry Hub 17,Mumbai,Bandra,Biryani,4.5,30
+R018,Urban Cafe 18,Delhi,Saket,Italian,4,16
+R019,Tasty House 19,Bengaluru,HSR Layout,Biryani,3.3,25
+R020,Royal Express 20,Chennai,Anna Nagar,South Indian,4.4,15
+R021,Royal Kitchen 21,Hyderabad,Kondapur,Desserts,4.5,20
+R022,Green Kitchen 22,Pune,Kothrud,Fast Food,3.8,35
+R023,Royal Express 23,Mumbai,Thane,Desserts,3.8,13
+R024,Fresh Bites 24,Delhi,Rohini,Chinese,3.5,23
+R025,Royal Express 25,Bengaluru,Jayanagar,Biryani,3.4,28
+R026,Street Cafe 26,Chennai,T Nagar,Fast Food,3.6,23
+R027,Royal Bites 27,Hyderabad,Banjara Hills,Healthy,4.3,34
+R028,Urban Kitchen 28,Pune,Hinjewadi,Chinese,4.6,22
+R029,Tasty Express 29,Mumbai,Thane,North Indian,4.4,14
+R030,Street House 30,Delhi,Lajpat Nagar,Healthy,4.6,19
+R031,Green Cafe 31,Bengaluru,Indiranagar,North Indian,4.6,32
+R032,Green Express 32,Chennai,Anna Nagar,North Indian,3.7,21
+R033,Green House 33,Hyderabad,Gachibowli,Healthy,4.4,27
+R034,Spice Express 34,Pune,Viman Nagar,Chinese,3.5,15
+R035,Urban Express 35,Mumbai,Powai,Italian,3.2,31
+R036,Tasty Hub 36,Delhi,Saket,South Indian,4.3,30
+R037,Curry House 37,Bengaluru,Indiranagar,North Indian,4.4,18
+R038,Curry Hub 38,Chennai,Velachery,South Indian,4,30
+R039,Royal Cafe 39,Hyderabad,Madhapur,North Indian,4.2,12
+R040,Fresh Kitchen 40,Pune,Wakad,Chinese,3.4,15
+R041,Tasty Express 41,Mumbai,Thane,Chinese,4.3,27
+R042,Green Cafe 42,Delhi,Lajpat Nagar,Desserts,4.2,23
+R043,Royal Cafe 43,Bengaluru,Whitefield,Biryani,4.5,25
+R044,Street Express 44,Chennai,Anna Nagar,Healthy,4.1,27
+R045,Fresh Kitchen 45,Hyderabad,Gachibowli,Italian,4.2,31
+R046,Urban Hub 46,Pune,Hinjewadi,Italian,3.3,19
+R047,Royal Kitchen 47,Mumbai,Andheri,South Indian,3.9,35
+R048,Royal Kitchen 48,Delhi,Dwarka,Fast Food,3.9,17
+R049,Urban Cafe 49,Bengaluru,Whitefield,Biryani,4.7,12
+R050,Fresh Bites 50,Chennai,OMR,Chinese,3.3,17
+R051,Fresh Bites 51,Hyderabad,Kukatpally,Desserts,3.7,34
+R052,Royal Kitchen 52,Pune,Hinjewadi,Desserts,4.3,19
+R053,Curry House 53,Mumbai,Thane,Healthy,4.1,24
+R054,Spice Express 54,Delhi,Dwarka,South Indian,4.3,30
+R055,Street Express 55,Bengaluru,Koramangala,North Indian,3.9,22
+R056,Royal Bites 56,Chennai,Velachery,Healthy,3.5,31
+R057,Tasty House 57,Hyderabad,Gachibowli,Biryani,3.2,14
+R058,Fresh Bites 58,Pune,Hinjewadi,Healthy,4.4,14
+R059,Urban Kitchen 59,Mumbai,Dadar,South Indian,4,29
+R060,Urban Bites 60,Delhi,Saket,Desserts,4.1,15
